@@ -1,3 +1,5 @@
+![alt text](https://github.com/mkorshe/awesome_awesome_chemoinformatics/blob/main/chlorix-regular.png?raw=true)
+
 # Awesome of awesome chemoinformatics
 
 This repository contains information about educational courses and related resourses, tools and databases in cheminformatics and computational drug discovery. This list was compiled from several sourses listed below. 
